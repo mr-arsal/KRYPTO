@@ -24,64 +24,60 @@ body {
 
 /* Toggler */
 .custom-toggler .navbar-toggler-icon {
-    background-image: url(/Group\ 49.png);
+    background-image: url(/Images/navbar_mobile.png);
 }
 
 /* ----------------- */
 
 
-/* Container 1 */
+/* Container*/
 
-.discover{
+.discover {
     font-size: 15vw;
     font-weight: 700;
     text-align: center;
 }
 
-.landpage-img{
+.landpage-img {
     width: 155.5px;
     height: 186px;
 }
 
-.marketplace{
+.marketplace {
     font-size: 5vw;
 }
 
-.cont1-btn{
+.cont1-btn {
     padding: 3vw 6vw;
     font-size: 5vw;
 }
 
 /* Sections */
 
-h2{
-   font-weight:700;
-   font-size: 62px; 
-   line-height: 70.4px; 
+h2 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 70.4px;
 }
 
 
-.land-text{
+.land-text {
     font-size: 65px;
-    
-    
 }
 
-.span{
+.span {
     color: #AED4DB;
 }
 
 ul {
     list-style: none;
     margin-left: -30px;
-  }
+}
 
 /* Media Queries */
 
-@media screen and (max-width: 992px){
-    .center{
+@media screen and (max-width: 992px) {
+    .center {
         text-align: center;
     }
 }
-
-
